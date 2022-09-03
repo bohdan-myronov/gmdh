@@ -1,6 +1,7 @@
 # gmdh
 
 Build a function that matches data values with a minimal external criterion. Currently supports only k + b1x1 + b2x2 + b3*x1^2
+
 requirements for the project: openmpi 4.1.4
 
 compile: make in directory
